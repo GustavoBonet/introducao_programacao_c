@@ -1,4 +1,6 @@
 #include <stdio.h>
+
+// ano bi
 int main(void) {
   int dia,mes,ano;
   int c1,c2,c3,c4,c5;
